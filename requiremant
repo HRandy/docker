@@ -1,0 +1,7 @@
+linux -- centos
+
+# 3 steps to ues docker #
+
+1.dockerfile
+2.build image
+3.run container
